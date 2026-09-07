@@ -1,0 +1,9 @@
+# Ignore all data folders and heavy files
+data/
+*.csv
+*.db
+*.sqlite3
+
+# Python and Jupyter caches
+.ipynb_checkpoints/
+__pycache__/
